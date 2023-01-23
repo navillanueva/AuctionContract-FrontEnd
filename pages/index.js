@@ -5,7 +5,7 @@ import ManualHeader from "../components/ManualHeader"
 export default function Home() {
     return (
         <div>
-            <ManualHeader>Hellooo</ManualHeader>
+            <ManualHeader>Hellooo this is the funday</ManualHeader>
         </div>
     )
 }
